@@ -2,7 +2,7 @@
 By Carlos Martinez DTS - 08
 <div id = "header" align = "center">
   <img = src = "https://i.pinimg.com/564x/76/ff/d7/76ffd71ece1b2067b6b6ca7431fcd69a.jpg" width = "500" />
-    <h1 align = 'Center'> ¡Bienvenido a mi primer proyecto como Data analyst! </>
+    <h1 align = 'Center'> ¡Bienvenido a mi primer proyecto como Data Analyst! </>
     <h2 align = 'Center'> EDA(Exploratory Data Analysis) y DA(Data Analysis).
     </2>
 </div>
@@ -61,7 +61,7 @@ Para el proceso del análisis exploratorio de los datos, en primer lugar se hizo
 
 ---
 ### Dashboard.
-Para el dashboard, se trabajó con [Power BI]( https://powerbi.microsoft.com/es-es/), haciendo énfasis en primer lugar sobre el top 5 de los sectores del índice Standard & Poor's 500 (S&P500) y luego sobre el top 3 con el fin de conseguir los ‘mejores tiempos’ o ‘tiempos a convenir’ para invertir, analizando las métricas de retorno de inversión y del beneficio por cada una. 
+Para el dashboard, se trabajó con [Power BI]( https://powerbi.microsoft.com/es-es/), haciendo énfasis en primer lugar sobre el top 5 de los sectores del índice Standard & Poor's 500 (S&P500) y luego sobre el top 3 con el fin de conseguir los ‘mejores tiempos’ o ‘tiempos a convenir’ para invertir, analizando las métricas de retorno de inversión y del beneficio por cada sector. 
   
 ---
   
