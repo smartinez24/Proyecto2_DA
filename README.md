@@ -1,9 +1,9 @@
-# Proyecto individual ML
+# Proyecto individual DA
 By Carlos Martinez DTS - 08
 <div id = "header" align = "center">
-  <img = src = "https://i.pinimg.com/564x/9a/3f/3f/9a3f3f56b757dcac242958c82e2d7270.jpg" width = "500" />
-    <h1 align = 'Center'> ¡Bienvenido a mi primer proyecto como Data engineer! </>
-    <h2 align = 'Center'> ETL(Extract, Transform and Load), EDA(Exploratory Data Analysis) y ML(Machine Learning).
+  <img = src = "https://i.pinimg.com/564x/76/ff/d7/76ffd71ece1b2067b6b6ca7431fcd69a.jpg" width = "500" />
+    <h1 align = 'Center'> ¡Bienvenido a mi primer proyecto como Data analyst! </>
+    <h2 align = 'Center'> EDA(Exploratory Data Analysis) y DA(Data Analysis).
     </2>
 </div>
 
@@ -14,11 +14,8 @@ By Carlos Martinez DTS - 08
   <a href = 'https://www.instagram.com/csantiagom88'>
     <img src = 'https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt = 'Instragram Badge' />
   
-  <a href = 'https://github.com/smartinez24/Proyecto1_ML.git'>
+  <a href = 'https://github.com/smartinez24/Proyecto2_DA'>
     <img src = 'https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt = 'Github Badge' />
-  
-  <a href = 'https://youtu.be/JW_bOy0YN5Q'>
-    <img src = 'https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt = 'Youtube Badge' />
   </a>
 </div>
 
@@ -30,9 +27,8 @@ By Carlos Martinez DTS - 08
 
 ---
 ### Introducción.
-Primer proyecto de la parte de Labs del Bootcamp SoyHenry. Proceso de extracción de los archivos tipo csv que se encontraban almacenados en la web y transformación de estos para poder llevar a cabo consultas sobre registros de producciones en plataformas de streaming como Amazon, Disney, Hulu y Netflix. Por último, una carga de los
-datos limpios a una API, que permita al usuario o cualquier persona ingresar al servicio web y hacer consultas sobre los registros. También, un modelo de Machine Learning, posterior al ETL y Análisis exploratorio de los datos para saber si dado un usuario del sistema, se le recomienda o no una producción.
-    
+Segundo proyecto de la parte de Labs del Bootcamp SoyHenry. Proceso de extracción de los datasets de la página de [Yahoo! Finance](https://finance.yahoo.com/) con ayuda de la libreria [yahoo-finance](https://pypi.org/project/yahoo-finance/) de python. Análisis exploratorio de los datos para tener un acercamiento hacia el mundo de la economía, conociendo sus variables, series temporales y datos más relevantes dentro del mercado bursátil. Analizar los diferentes periodos de los registros para obtener métricas de evaluación que permitan dar a conocer e incentivar a una persona u empresa de un rubro cualquiera, a invertir, sabiendo las variaciones entre el beneficio y la pérdida de la inversión, además de los tiempos 'adecuados' para una buena [ROI](https://www.becas-santander.com/es/blog/que-es-el-roi.html). 
+
 ---
 <h3> Herramientas usadas: </h3>
 <div>
@@ -41,9 +37,8 @@ datos limpios a una API, que permita al usuario o cualquier persona ingresar al 
    <img src = 'https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' title = 'VSC' alt = 'VSC' width = '40' height = '40' />&nbsp;
    <img src = 'https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg' title = 'Windows' alt = 'Windows' width = '40' height = '40' />&nbsp;
    <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title = 'Python' alt = 'Python' width = '40' height = '40' />&nbsp;
-   <img src = 'https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg' title = 'fastAPI' alt = 'fastAPI' width = '40' height = '40' />&nbsp;
-   <img src = 'https://res.cloudinary.com/practicaldev/image/fetch/s--iWNIikKc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u6kmbieir6su8dt70z3l.png' title = 'Render' alt = 'Render' width = '40' height = '40' />&nbsp;
-    <img src = 'https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg' title = 'Github' alt = 'Github' width = '40' height = '40' />&nbsp;
+   <img src = 'https://i.pinimg.com/564x/a7/4f/20/a74f2088b690a02fb9639f077831fd45.jpg' title = 'Power BI' alt = 'Power BI' width = '40' height = '40' />&nbsp;
+   <img src = 'https://i.pinimg.com/564x/8a/2c/b9/8a2cb9635fd4fe44543f87b9f42ba014.jpg' title = 'Archivos csv' alt = 'Archivos csv' width = '40' height = '40' />&nbsp;
   
 ---
 ### ETL y EDA.
