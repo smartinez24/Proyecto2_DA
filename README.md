@@ -60,12 +60,10 @@ Para el proceso del análisis exploratorio de los datos, en primer lugar se hizo
 
 
 ---
-### Sistema de recomendación.
-Una vez realizado el proceso de ETL y EDA, pasé al sistema de recomendación. Con los datos limpios y un análisis adecuado de la información que se obtuvo de los datasets, se creo un modelo supervisado, que de acuerdo con la calificación a producciones anteriores que visualizó el usuario en una fecha determinada, permitiera evaluar si al recomendar una nueva producción del registro de producciones, que el usuario no haya visto, determine si se le recomienda o no. 
+### Dashboard.
+Para el dashboard, se trabajó con [Power BI]( https://powerbi.microsoft.com/es-es/), haciendo énfasis en primer lugar sobre el top 5 de los sectores del índice Standard & Poor's 500 (S&P500) y luego sobre el top 3 con el fin de conseguir los ‘mejores tiempos’ o ‘tiempos a convenir’ para invertir, analizando las métricas de retorno de inversión y del beneficio por cada una. 
   
 ---
-### [Video](https://youtu.be/JW_bOy0YN5Q).
-En el siguiente [enlace](https://youtu.be/JW_bOy0YN5Q) estará disponible un video haciendo la presentación del proyecto y los procesos realizados para llegar al producto final y poder satisfacer las consultas del proyecto.
   
 <div id = "header" align = "center">
   <h1 align = 'Center'> ¡Gracias! </>
