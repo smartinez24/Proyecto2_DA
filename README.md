@@ -41,14 +41,13 @@ Segundo proyecto de la parte de Labs del Bootcamp SoyHenry. Proceso de extracci�
    <img src = 'https://i.pinimg.com/564x/8a/2c/b9/8a2cb9635fd4fe44543f87b9f42ba014.jpg' title = 'Archivos csv' alt = 'Archivos csv' width = '40' height = '40' />&nbsp;
   
 ---
-### ETL y EDA.
-Para el proceso de ETL y EDA, importé los archivos en el Visual Studio Code, para manejar con el lenguaje Python y sus determinadas librerias. Hice una visualización de los datos en general, para poder ver la relación entre los mismos y poder hacer un debido manejo a los datos nulos, faltantes y atípicos. Por ejemplo, para datos como el cast, el director o el lugar donde se realizó la producción, era imposible hallar una relación con los otros datos del dataset. Sin embargo, habían identificadores o relación entre algunos otros datos, como los datos de tipo numérico, ya que podíamos solucionar los nulos de estos, gracias a la variación, la moda y el promedio, creando y analizando filtros por plataforma y tipo de producción; Movies o TV shows. Este proceso se pudo llevar a cabo y complementar gracias a las siguientes consignas de evaluación:
-  - Generar campo id: Cada id se compondrá de la primera letra del nombre de la plataforma, seguido del show_id ya presente en los datasets (ejemplo para títulos de Amazon = as123).
-  - Los valores nulos del campo rating deberán reemplazarse por el string “G” (corresponde al maturity rating: “general for all audiences”.
-  - De haber fechas, deberán tener el formato AAAA-mm-dd.
-  - Los campos de texto deberán estar en minúsculas, sin excepciones.
-  - El campo duration debe convertirse en dos campos: duration_int y duration_type. El primero será un integer y el segundo un string indicando la unidad de medición de duración: min (minutos) o season (temporadas).
-  
+### Contexto. 
+Desde el año 2000 se han implementado nuevas tecnologías para la mejora continua de la humanidad. Dichas mejoras, han abarcado todo un sistema para la relación de las personas de manera rápida, concisa y verídica. Hemos sido protagonistas del cambio de las generaciones, desde 'Los Millenials' hasta nuestra hoy, querida generación de cristal, que lucha día a día con las indiferencias del pasado, y que busca aprender del error para poder sobrevivir en un mundo globalizado. 
+
+La globalización, también conocida como integración social, permitió a diferentes entidades, naciones, estados y continentes del planeta tierra generar conexiones para ampliar el marco de conocimiento, a nivel social, cultural, político y económico, de nuevos paradigmas para mejorar la vida y su sentido. Es importante reconocer el proceso de transformación de los diferentes medios que se usan actualmente, que permiten la libertad en todos los espacios posibles. También es de aceptar, que el mundo mecánico con el que nuestras antiguas generaciones vivían, ha quedado en el pasado, y es hora de conllevar el proceso de la digitalización. Hacer el uso de la tecnología de manera efectiva, para mejorar nuestras vidas y estar en un constante proceso de mejora. Pero bueno, no todo es color de rosas, ¿verdad? 
+
+Debía ser muy chico para conocer los problemas sociales que azotaban 
+
 ---
 ### [API](https://fastapi-hbsx.onrender.com/docs).
 Para la creación de la api, se creó un entorno virtual de Python, que me permitió trabajar las consultas con el modulo de fastAPI. Este modulo permite crear una plataforma y/o servicio web, por medio del servidor Render, que trabaja bajo sistema HTTP simples. En este [enlace](https://fastapi-hbsx.onrender.com/docs), podemos realizar las consultas siguientes: 
